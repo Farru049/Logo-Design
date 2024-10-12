@@ -1,10 +1,6 @@
-Here's a `README.md` file for your project, with an image at the top and a detailed explanation of the code:
-
----
-
 # Responsive Form with Gradient Background
 
-![Project Preview](./image.png) <!-- Make sure to replace 'image.png' with the actual image file name if you upload it to your repository -->
+![Project Preview](./comngsoon.png) <!-- Make sure to replace 'image.png' with the actual image file name if you upload it to your repository -->
 
 This project is a simple yet responsive web page that centers a form in the middle of the screen, with a gradient background and a minimalistic design. The form includes an email input field and a button, which are styled to look modern and user-friendly.
 
@@ -62,7 +58,3 @@ Here is a preview of how the page looks:
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Once you've added an image to your repository, make sure to update the image paths in the `README.md` accordingly. Let me know if you'd like further customizations!
